@@ -1,4 +1,5 @@
 # 📊 E-Commerce Sales Dashboard
+![Alt Text - Dashboard Screenshot](screenshot.png)
 
 ## Overview
 This project is an **Excel-based E-Commerce Sales Dashboard** created to analyze sales performance, profitability, customer behavior, and product trends.
@@ -55,4 +56,4 @@ This dashboard focuses on analyzing:
 📂 E-Commerce-Sales-Dashboard
 │-- 📄 Ecommerce Sales Analysis.xlsx
 │-- 📄 README.md
-│-- 📂 Screenshots
+│-- 📄 screenshot.png
