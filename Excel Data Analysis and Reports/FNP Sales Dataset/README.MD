@@ -1,6 +1,7 @@
 # 📊 Ferns and Petals Sales Analysis Dashboard
-```md
-![Dashboard Preview](Excel Data Analysis and Reports/FNP Sales Dataset/Screenshots/Dashboard.png)
+
+![Alt Text - Dashboard Screenshot](Screenshots/Dashboard.png)
+
 ## Overview
 This project is an Excel-based sales analysis dashboard built using the **Ferns and Petals (FNP) Sales Dataset**.
 
