@@ -61,8 +61,7 @@ To enhance dashboard appearance and user experience:
 ---
 
 ## 📷 Dashboard Preview
-_Add dashboard screenshots here_
-
+![Alt Text - Dashboard Screenshot](screenshot.png)
 ---
 
 ## 🚀 Key Insights
